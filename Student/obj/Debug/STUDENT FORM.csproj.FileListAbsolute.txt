@@ -1,0 +1,22 @@
+D:\C#\STUDENT FORM\bin\Debug\STUDENT FORM.exe.config
+D:\C#\STUDENT FORM\bin\Debug\STUDENT FORM.exe
+D:\C#\STUDENT FORM\bin\Debug\STUDENT FORM.pdb
+D:\C#\STUDENT FORM\obj\Debug\STUDENT FORM.csproj.AssemblyReference.cache
+D:\C#\STUDENT FORM\obj\Debug\STUDENT FORM.csproj.SuggestedBindingRedirects.cache
+D:\C#\STUDENT FORM\obj\Debug\STUDENT_FORM.Properties.Resources.resources
+D:\C#\STUDENT FORM\obj\Debug\STUDENT FORM.csproj.GenerateResource.cache
+D:\C#\STUDENT FORM\obj\Debug\STUDENT FORM.csproj.CoreCompileInputs.cache
+D:\C#\STUDENT FORM\obj\Debug\STUDENT FORM.exe
+D:\C#\STUDENT FORM\obj\Debug\STUDENT FORM.pdb
+D:\C#\STUDENT FORM\obj\Debug\STUDENT_FORM.A.resources
+D:\OneDrive - The University of Technology\Learning\Semester_4\PBL3\STUDENT FORM\bin\Debug\STUDENT FORM.exe.config
+D:\OneDrive - The University of Technology\Learning\Semester_4\PBL3\STUDENT FORM\bin\Debug\STUDENT FORM.exe
+D:\OneDrive - The University of Technology\Learning\Semester_4\PBL3\STUDENT FORM\bin\Debug\STUDENT FORM.pdb
+D:\OneDrive - The University of Technology\Learning\Semester_4\PBL3\STUDENT FORM\obj\Debug\STUDENT FORM.csproj.AssemblyReference.cache
+D:\OneDrive - The University of Technology\Learning\Semester_4\PBL3\STUDENT FORM\obj\Debug\STUDENT FORM.csproj.SuggestedBindingRedirects.cache
+D:\OneDrive - The University of Technology\Learning\Semester_4\PBL3\STUDENT FORM\obj\Debug\STUDENT_FORM.A.resources
+D:\OneDrive - The University of Technology\Learning\Semester_4\PBL3\STUDENT FORM\obj\Debug\STUDENT_FORM.Properties.Resources.resources
+D:\OneDrive - The University of Technology\Learning\Semester_4\PBL3\STUDENT FORM\obj\Debug\STUDENT FORM.csproj.GenerateResource.cache
+D:\OneDrive - The University of Technology\Learning\Semester_4\PBL3\STUDENT FORM\obj\Debug\STUDENT FORM.csproj.CoreCompileInputs.cache
+D:\OneDrive - The University of Technology\Learning\Semester_4\PBL3\STUDENT FORM\obj\Debug\STUDENT FORM.exe
+D:\OneDrive - The University of Technology\Learning\Semester_4\PBL3\STUDENT FORM\obj\Debug\STUDENT FORM.pdb

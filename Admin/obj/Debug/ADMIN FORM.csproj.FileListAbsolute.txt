@@ -1,0 +1,11 @@
+D:\OneDrive - The University of Technology\Learning\Semester_4\PBL3\ADMIN FORM\obj\Debug\ADMIN FORM.csproj.AssemblyReference.cache
+D:\OneDrive - The University of Technology\Learning\Semester_4\PBL3\ADMIN FORM\obj\Debug\ADMIN FORM.csproj.SuggestedBindingRedirects.cache
+D:\OneDrive - The University of Technology\Learning\Semester_4\PBL3\ADMIN FORM\obj\Debug\ADMIN_FORM.Properties.Resources.resources
+D:\OneDrive - The University of Technology\Learning\Semester_4\PBL3\ADMIN FORM\obj\Debug\ADMIN FORM.csproj.GenerateResource.cache
+D:\OneDrive - The University of Technology\Learning\Semester_4\PBL3\ADMIN FORM\obj\Debug\ADMIN FORM.csproj.CoreCompileInputs.cache
+D:\OneDrive - The University of Technology\Learning\Semester_4\PBL3\ADMIN FORM\bin\Debug\ADMIN FORM.exe.config
+D:\OneDrive - The University of Technology\Learning\Semester_4\PBL3\ADMIN FORM\bin\Debug\ADMIN FORM.exe
+D:\OneDrive - The University of Technology\Learning\Semester_4\PBL3\ADMIN FORM\bin\Debug\ADMIN FORM.pdb
+D:\OneDrive - The University of Technology\Learning\Semester_4\PBL3\ADMIN FORM\obj\Debug\ADMIN_FORM.Presentation.ADMIN_form.resources
+D:\OneDrive - The University of Technology\Learning\Semester_4\PBL3\ADMIN FORM\obj\Debug\ADMIN FORM.exe
+D:\OneDrive - The University of Technology\Learning\Semester_4\PBL3\ADMIN FORM\obj\Debug\ADMIN FORM.pdb

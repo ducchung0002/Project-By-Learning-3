@@ -1,0 +1,103 @@
+﻿BEGIN TRANSACTION
+INSERT INTO [Teacher] ([teacherId], [password], [firstName], [middleName], [lastName],[contactNumber],[email],[dateOfBirth],[provincesCode],[districtsCode],[wardsCode],[homeAddress],[degreeID],[ethnicID],[religionID],[departmentId],[dateOfEmployment], [lastWorkingDate],[coefficientSalary],[imagePath])
+VALUES
+	/*Tổ toán*/
+	('010001', '12345678', N'Nguyễn', N'Xuân', N'Trường', '0905215538', 'dunglqd18@yahoo.com.vn', '1970-01-01', N'48', N'490', N'20197', N'36 Đồng Bài 1', 1, 1, 1, 1, '2013-01-01', null, 10, null)
+	,('010002', '12345678', N'Nguyễn', N'Chí', N'Liêm', '0914028555', 'ncliemlqd@gmail.com', '1970-01-01', N'48', N'490', N'20197', null, 1, 1, 1, 1, '2013-01-01', null, 10, null) 
+	,('010003', '12345678', N'Võ', N'Quang', N'Minh', '0982005331', 'Vqminh123@gmail.com', '1970-01-01', N'48', N'490', N'20197', N'K18H51/52 Ông Ích Khiêm', 1, 1, 1, 1, '2013-01-01', null, 10, null) 
+	,('010004', '12345678', N'Phạm', N'Thị Ngọc', N'Bích', '0978759315', 'anhkiet0309@yahoo.com.vn', '1970-01-01', N'48', N'490', N'20197', N'Khu A5, Phòng 209 C.cư Vũng Thùng', 1, 1, 1, 1, '2013-01-01', null, 10, null) 
+	,('010005', '12345678', N'Lê', N'Đức', N'Thịnh', '0989157846', 'thinhleduc2011@gmail.com', '1970-01-01', N'48', N'490', N'20197', N'231 Hải Phòng', 1, 1, 1, 1, '2013-01-01', null, 10, null) 
+	,('010006', '12345678', N'Nguyễn', N'Đình', N'Minh', '0983106525', 'minhtdhsp@yahoo.com', '1970-01-01', N'48', N'490', N'20197', N'Chung cư Vũng Thùng', 1, 1, 1, 1, '2013-01-01', null, 10, null) 
+	,('010007', '12345678', N'Nguyễn', N'Quốc', N'Khánh', '0905129894', 'quockhanh_123456@yahoo.com.vn', '1970-01-01', N'48', N'490', N'20197', N'Lô 8 B4 Lý Tự Trọng', 1, 1, 1, 1, '2013-01-01', null, 10, null)
+	,('010008', '12345678', N'Phan', N'Xuân', N'Quang', '0913443112', 'xuanquanglqd@yahoo.com.vn', '1970-01-01', N'48', N'490', N'20197', N'124 đường 3/2', 1, 1, 1, 1, '2013-01-01', null, 10, null)
+	,('010009', '12345678', N'Trịnh', N'Thị', N'Thanh', '0982228408', 'windyfor@gmail.com', '1970-01-01', N'48', N'490', N'20197', N'66 Nguyễn Trung Ngạn', 1, 1, 1, 1, '2013-01-01', null, 10, null)
+	/*Tổ lý*/
+	,('020001', '12345678', N'Trần', N'Văn', N'Việt', '0905621038', 'tranvietnayt@gmail.com', '1970-01-01', N'48', N'490', N'20197', N'Hòa Tiến, Đà Nẵng', 1, 1, 1, 2, '2013-01-01', null, 10, null)
+	,('020002', '12345678', N'Phan', N'Thế', N'Hiếu', '0906438314', 'Thehieu91@ gmail.com', '1970-01-01', N'48', N'490', N'20197', N'241 Nguyễn Lương Bằng', 1, 1, 1, 2, '2013-01-01', null, 10, null)
+	,('020003', '12345678', N'Lê', N'Phạm Liên', N'Chi', '0905027242', 'lephamlienchi@gmail.com', '1970-01-01', N'48', N'490', N'20197', N'K266/49B Hoàng Diệu', 1, 1, 1, 2, '2013-01-01', null, 10, null)
+	,('020004', '12345678', N'Nguyễn', N'Văn', N'Thụy', '0914063130', 'thuynguyen_10092@yahoo.com.vn', '1970-01-01', N'48', N'490', N'20197', N'K276/15 Hải Phòng', 1, 1, 1, 2, '2013-01-01', null, 10, null)
+	,('020005', '12345678', N'Nguyễn', N'Thị Hoàng', N'Hậu', '0985000535', 'haunth@thpt-lequydon-danang.edu.vn', '1970-01-01', N'48', N'490', N'20197', N'42B Ng. Thành Hãn', 1, 1, 1, 2, '2013-01-01', null, 10, null)
+	,('020006', '12345678', N'Hồ', null, N'Phúc', '0989155560', 'hophuclqd@yahoo.com.vn', '1970-01-01', N'48', N'490', N'20197', N'184 Nguyễn Chí Thanh', 1, 1, 1, 2, '2013-01-01', null, 10, null)
+	/*Tổ hóa*/
+	,('030001', '12345678', N'Đỗ', N'Thị Hiền', N'Trang', '0375676515', 'dothihientrang@gmail.com', '1970-01-01', N'48', N'490', N'20197', N'69 Trần Duy Khoái', 1, 1, 1, 3, '2013-01-01', null, 10, null)
+	,('030002', '12345678', N'Nguyễn', N'Đức', N'Dũng', '0903595849', 'dunghoalad@yahoo.com.vn', '1970-01-01', N'48', N'490', N'20197', N'152 Lý Tự Trọng', 1, 1, 1, 3, '2013-01-01', null, 10, null)
+	,('030003', '12345678', N'Lê', N'Thị Thanh', N'Tuyền', '0905268190', 'ltttuyenlqd@gmail.com', '1970-01-01', N'48', N'490', N'20197', null, 1, 1, 1, 3, '2013-01-01', null, 10, null)
+	,('030004', '12345678', N'Nguyễn', N'Thanh', N'Hưng', '0989079157', 'Hungnguyen15971@yahoo', '1970-01-01', N'48', N'490', N'20197', N'K748/05 Trần Cao Vân', 1, 1, 1, 3, '2013-01-01', null, 10, null)
+	,('030005', '12345678', N'Trần', N'Thị Phương', N'Khanh', '0984930200', 'Hungnguyen15971@yahoo', '1970-01-01', N'48', N'490', N'20197', N'Lô B1-21Khu dân cư M. Thái', 1, 1, 1, 3, '2013-01-01', null, 10, null)
+	,('030006', '12345678', N'Đỗ', N'Văn', N'Tiến', '0983020165', 'tiendv@thpt-lequydon-danang.edu.vn', '1970-01-01', N'48', N'490', N'20197', N'82/16 Nguyễn Văn Linh', 1, 1, 1, 3, '2013-01-01', null, 10, null)
+	,('030007', '12345678', N'Đặng', N'Công Anh', N'Tuấn', '0905502702', 'dangtuanlqd@vnn.vn', '1970-01-01', N'48', N'490', N'20197', N'Tuý Loan – Hoà Vang', 1, 1, 1, 3, '2013-01-01', null, 10, null)
+	/*Tổ sinh học*/
+	,('040001', '12345678', N'Nguyễn', N'Thị Thu', N'Ba', '0777543369', 'thubanguyenth@yahoo.com', '1970-01-01', N'48', N'490', N'20197', N'16 An Thượng 17, Ngũ Hành Sơn', 1, 1, 1, 4, '2013-01-01', null, 10, null)
+	,('040002', '12345678', N'Văn', N'Thị Việt', N'Hoa', '0976198488', 'viethoadn@gmail.com', '1970-01-01', N'48', N'490', N'20197', N'88 Phạm Hữu Kính', 1, 1, 1, 4, '2013-01-01', null, 10, null)
+	,('040003', '12345678', N'Trần', N'Thị', N'Huệ', '0905126216', 'huett@thpt-lequydon-danang.edu.vn', '1970-01-01', N'48', N'490', N'20197', N'K25/9 Thái Phiên', 1, 1, 1, 4, '2013-01-01', null, 10, null)
+	,('040004', '12345678', N'Vũ', N'Thị Minh', N'Huệ', '0983336012', 'huevtm@yahoo.com', '1970-01-01', N'48', N'490', N'20197', N'71/09 Lê Lợi', 1, 1, 1, 4, '2013-01-01', null, 10, null)
+	,('040005', '12345678', N'Huỳnh', N'Tấn', N'Ngọt', '0905680009', 'hoangot2008@ gmail.com', '1970-01-01', N'48', N'490', N'20197', N'Tổ 6 Quang Châu, xã Hòa Châu, H.Vang', 1, 1, 1, 4, '2013-01-01', null, 10, null)
+	,('040006', '12345678', N'Đào', N'Thị Thanh', N'Hương', '0905289619', 'huongdao.25@gmail.com', '1970-01-01', N'48', N'490', N'20197', N'584/6 Trần Cao Vân', 1, 1, 1, 4, '2013-01-01', null, 10, null)
+	,('040007', '12345678', N'Đào', N'Thị Thanh', N'Hương', '0982756610', 'vypuonghello@gmail.com', '1970-01-01', N'48', N'490', N'20197', N'K37/10 Đoàn Thị Điểm', 1, 1, 1, 4, '2013-01-01', null, 10, null)
+	/*Tổ tin học*/
+	,('050001', '12345678', N'Đỗ', N'Văn', N'Nhỏ', '0934751057', 'dovannho@gmail.com', '1970-01-01', N'48', N'490', N'20197', N'K 204/9 Hải Phòng', 1, 1, 1, 5, '2013-01-01', null, 10, null)
+	,('050002', '12345678', N'Lê', N'Vũ Ngọc', N'Anh', '0980546222', 'lvnanh@gmail.com', '1970-01-01', N'48', N'490', N'20197', N'43 Phan Châu Trinh', 1, 1, 1, 5, '2013-01-01', null, 10, null)
+	,('050003', '12345678', N'Đoàn', null, N'Cường', '0905239167', 'tungsoncuong@gmail.com', '1970-01-01', N'48', N'490', N'20197', N'Tổ 49 Đa Phước - H. Khánh', 1, 1, 1, 5, '2013-01-01', null, 10, null)
+	,('050004', '12345678', N'Nguyễn', N'Vinh', N'Hạnh', '0983180265', 'hanhlqd@gmail.com', '1970-01-01', N'48', N'490', N'20197', N'242/10 Điện Biên Phủ Đà Nẵng', 1, 1, 1, 5, '2013-01-01', null, 10, null)
+	,('050005', '12345678', N'Huỳnh', N'Thị Thu', N'Hương', '0905186363', 'thuhuong105@yahoo.com', '1970-01-01', N'48', N'490', N'20197', N'159/15 Trần Thái Tông', 1, 1, 1, 5, '2013-01-01', null, 10, null)
+	,('050006', '12345678', N'Nguyễn', N'Hữu', N'Siêu', '0905146538', 'sieunguyenit@yahoo.com', '1970-01-01', N'48', N'490', N'20197', N'Tổ 14 Nại Hiên Đông, Sơn Trà, Đà Nẵng', 1, 1, 1, 5, '2013-01-01', null, 10, null)
+	,('050007', '12345678', N'Trần', N'Quốc', N'Tuấn', '0905011119', 'quoctuanzx@gmail.com', '1970-01-01', N'48', N'490', N'20197', N'Khu A6, Phòng 210 C.cư Vũng Thùng', 1, 1, 1, 5, '2013-01-01', null, 10, null)
+	/*Tổ ngữ văn*/
+	,('060001', '12345678', N'Lê', N'Phan Quỳnh', N'Trang', '0834865636', 'thongnguyen158@gmail.com', '1970-01-01', N'48', N'490', N'20197', null, 1, 1, 1, 6, '2013-01-01', null, 10, null)
+	,('060002', '12345678', N'Huỳnh', N'Thị Thu', N'Ba', '0983527579', 'thu_ba1970@yahoo.com', '1970-01-01', N'48', N'490', N'20197', N'Lô 42 đường 30/4', 1, 1, 1, 6, '2013-01-01', null, 10, null)
+	,('060003', '12345678', N'Mai', N'Lê Thu', N'Thùy', '0905736029', 'mailethuthuy@gmail.com', '1970-01-01', N'48', N'490', N'20197', N'272 Ngũ Hành Sơn', 1, 1, 1, 6, '2013-01-01', null, 10, null)
+	,('060004', '12345678', N'Hồ', N'Thị', N'Thái', '0914288856', 'thaidanang@yahoo.com', '1970-01-01', N'48', N'490', N'20197', N'P301-A2 Ccư Vung Thùng', 1, 1, 1, 6, '2013-01-01', null, 10, null)
+	,('060005', '12345678', N'Trần', N'Thị Thiên', N'Vân', '0946000909', 'thienvan_lqd@yahoo.com', '1970-01-01', N'48', N'490', N'20197', N'K92/10 Đinh Tiên Hoàng', 1, 1, 1, 6, '2013-01-01', null, 10, null)
+	,('060006', '12345678', N'Nguyễn', N'Thị Thái', N'Vân', '0963500111', 'thaivandnang@gmail.com', '1970-01-01', N'48', N'490', N'20197', N'8 Thanh Duyên', 1, 1, 1, 6, '2013-01-01', null, 10, null)
+	,('060007', '12345678', N'Trần', N'Văn', N'Vụ', '0913387054', 'vanvulqd@gmail.com', '1970-01-01', N'48', N'490', N'20197', N'38/147 Ng. Tri Phương', 1, 1, 1, 6, '2013-01-01', null, 10, null)
+	/*Tổ lịch sử*/
+	,('070001', '12345678', N'Nguyễn', N'Ngọc', N'Đoàn', '0934972759', 'Doan1010 gmail.com', '1970-01-01', N'48', N'490', N'20197', N'Tổ 71 P. Hòa Minh, LC', 1, 1, 1, 7, '2013-01-01', null, 10, null)
+	,('070002', '12345678', N'Bùi', N'Thị Kim', N'Huệ', '0918054579', 'btkhdnn@gmail.com', '1970-01-01', N'48', N'490', N'20197', N'178 Ỷ Lan Nguyên Phi, Ỷ Lan Nguyên Phi', 1, 1, 1, 7, '2013-01-01', null, 10, null)
+	,('070003', '12345678', N'Lương', N'Hữu', N'Nga', '0905036007', 'lahuunguong@gmail.com', '1970-01-01', N'48', N'490', N'20197', N'Hoà Thọ Tây, Cẩm Lệ', 1, 1, 1, 7, '2013-01-01', null, 10, null)
+	,('070004', '12345678', N'Đặng', N'Công', N'Thành', '0913453450', 'congthanh7983@gmail.com', '1970-01-01', N'48', N'490', N'20197', N'Đường Phan Đăng Lưu', 1, 1, 1, 7, '2013-01-01', null, 10, null)
+	,('070005', '12345678', N'Lê', N'Thị', N'Huyền', '0903556242', 'huyenls86@yahoo.com', '1970-01-01', N'48', N'490', N'20197', N'Tổ 9 Hoà Minh, Liên Chiểu', 1, 1, 1, 7, '2013-01-01', null, 10, null)
+	,('070006', '12345678', N'Phạm', N'Đình', N'Được', '0984969995', 'phamdinhduoc@gmail.com', '1970-01-01', N'48', N'490', N'20197', N'Ngũ Hành Sơn', 1, 1, 1, 7, '2013-01-01', null, 10, null)
+	/*Tổ địa lý*/
+	,('080001', '12345678', N'Nguyễn', N'Thị Cẩm', N'Vy', '0399358834', 'Camvy11190@gmail.com', '1970-01-01', N'48', N'490', N'20197', N'218/7 Điện Biên Phủ', 1, 1, 1, 8, '2013-01-01', null, 10, null)
+	,('080002', '12345678', N'Hồ', N'Quốc', N'Chính', '0905465567', 'quocchinh333@gmailcom', '1970-01-01', N'48', N'490', N'20197', N'333-CMT8 –Cẩm Lệ', 1, 1, 1, 8, '2013-01-01', null, 10, null)
+	,('080003', '12345678', N'Trương', N'Như', N'Linh', '0904944628', 'nhulinh1958@yahoo.com', '1970-01-01', N'48', N'490', N'20197', N'12/3 Ngô Gia Tự', 1, 1, 1, 8, '2013-01-01', null, 10, null)
+	,('080004', '12345678', N'Lý', N'Thị Bạch', N'Mai', '0903571178', 'bachmai_lqd@yahoo.com.vn', '1970-01-01', N'48', N'490', N'20197', N'K482/15/12 TrNữ Vương', 1, 1, 1, 8, '2013-01-01', null, 10, null)
+	,('080005', '12345678', N'Nguyễn', N'Trần Thiện', N'Mỹ', '0905128494', 'thienmylqd@yahoo.com', '1970-01-01', N'48', N'490', N'20197', N'38 Cao Xuân Dục', 1, 1, 1, 8, '2013-01-01', null, 10, null)
+	,('080006', '12345678', N'Hoàng', N'Kim', N'Mỹ', '0914460672', 'myhoangkim1@gmail.com', '1970-01-01', N'48', N'490', N'20197', N'Tổ 27 P.Khuê Mỹ, Q. Ngũ Hành Sơn', 1, 1, 1, 8, '2013-01-01', null, 10, null)
+	/*Anh văn*/
+	,('090001', '12345678', N'Phan', N'Thị', N'Nữ', '0914048565', 'nuphanthi@yahoo.com', '1970-01-01', N'48', N'490', N'20197', N'H115/02 K356 Hoàng Diệu', 1, 1, 1, 9, '2013-01-01', null, 10, null)
+	,('090002', '12345678', N'Nguyễn', N'Đỗ Hà', N'Anh', '0905197366', 'haanh14@gmail.com', '1970-01-01', N'48', N'490', N'20197', N'29 Thái Thị Bôi', 1, 1, 1, 9, '2013-01-01', null, 10, null)
+	,('090003', '12345678', N'Phan', N'Lê', N'Thắm', '0983482948', 'phanletham@yahoo.com', '1970-01-01', N'48', N'490', N'20197', N'10 Ngô Tất Tố', 1, 1, 1, 9, '2013-01-01', null, 10, null)
+	,('090004', '12345678', N'Mai', N'Ngọc Thu', N'Tâm', '0983201149', 'maingoctt@gmail.com', '1970-01-01', N'48', N'490', N'20197', N'37 Dương Khuê, Ngũ Hành Sơn', 1, 1, 1, 9, '2013-01-01', null, 10, null)
+	,('090005', '12345678', N'Phạm', N'Thị Bích', N'Thư', '0982002712', 'thuphamthibich@yahoo.com', '1970-01-01', N'48', N'490', N'20197', N'64 Tạ Mỹ Duật, Sơn Trà', 1, 1, 1, 9, '2013-01-01', null, 10, null)
+	,('090006', '12345678', N'Hoàng', N'Thị Bảo', N'Kim', '0913443744', 'sirius@yahoo.com', '1970-01-01', N'48', N'490', N'20197', N'5/2 Trần Tống', 1, 1, 1, 9, '2013-01-01', null, 10, null)
+	,('090007', '12345678', N'Nguyễn', N'Hà Đoan', N'Phương', '0982759772', 'nguyenhadoanphuong2004@yahoo.com', '1970-01-01', N'48', N'490', N'20197', N'817 Trần Cao Vân', 1, 1, 1, 9, '2013-01-01', null, 10, null)
+	,('090008', '12345678', N'Trần', N'Văn', N'Quân', '0914048427', 'king_of_perfume@yahoo.com', '1970-01-01', N'48', N'490', N'20197', N'31/502 đường 2/9', 1, 1, 1, 9, '2013-01-01', null, 10, null)
+	,('090009', '12345678', N'Trịnh', N'Ngọc Xuân', N'Thảo', '0905203232', 'xuanthao242@yahoo.com', '1970-01-01', N'48', N'490', N'20197', N'P3 B25-Chung cư Blue House, STrà', 1, 1, 1, 9, '2013-01-01', null, 10, null)
+	/*Tổ tiếng Pháp*/
+	,('100001', '12345678', N'Lê', N'Trần Thanh', N'Cương', '0905075646', 'thanhcuonglqd@gmail.com', '1970-01-01', N'48', N'490', N'20197', N'Tổ 10b Điện Biên Phủ', 1, 1, 1, 10, '2013-01-01', null, 10, null)
+	,('100002', '12345678', N'Vĩ', N'Thanh', N'Giang', '0905295939', 'vigiang3412@yahoo.com', '1970-01-01', N'48', N'490', N'20197', N'Tổ 63A, An Khê - Thanh Khê', 1, 1, 1, 10, '2013-01-01', null, 10, null)
+	,('100003', '12345678', N'Trần', N'Thị Ngọc', N'Hạnh', '0905225382', 'Hanhngoc83@gmail.com', '1970-01-01', N'48', N'490', N'20197', N'267G Đống Đa', 1, 1, 1, 10, '2013-01-01', null, 10, null)
+	,('100004', '12345678', N'Nguyễn', N'Thị', N'Tâm', '0905990787', 'ddttam3@yahoo.fr', '1970-01-01', N'48', N'490', N'20197', N'K144/6 Hồ Nguyên Trường', 1, 1, 1, 10, '2013-01-01', null, 10, null)
+	,('100005', '12345678', N'Phạm', N'Trúc', N'Khanh', '0935515728', 'apen2010dr@yahoo.com', '1970-01-01', N'48', N'490', N'20197', N'87 Đinh Tiên Hoàng', 1, 1, 1, 10, '2013-01-01', null, 10, null)
+	,('100006', '12345678', N'Tạ', N'Thị Khánh', N'Linh', '0342077100', 'truongkhanh01@Yahoo.fr', '1970-01-01', N'48', N'490', N'20197', N'17 Lê Nổ', 1, 1, 1, 10, '2013-01-01', null, 10, null)
+	/*Tổ tiếng Nhật*/
+	,('110001', '12345678', N'Lê', N'Thị Bích', N'Quy', '0973346464', 'ltbichquy@gmail.com', '1970-01-01', N'48', N'490', N'20197', N'140/2 Hải Hồ', 1, 1, 1, 11, '2013-01-01', null, 10, null)
+	,('110002', '12345678', N'Nguyễn', N'Thục', N'Vy', '0905009159', 'nguyenthucvy06cnj01@ gmail.com', '1970-01-01', N'48', N'490', N'20197', N'44 Yên Bái, Hải Châu', 1, 1, 1, 11, '2013-01-01', null, 10, null)
+	/*Tổ GDCD QLHS*/
+	,('120001', '12345678', N'Trương', N'Duy', N'Huân', '0914169639', 'duyhuan277@yahoo.com', '1970-01-01', N'48', N'490', N'20197', N'H5/05K106 N. Gia Tự', 1, 1, 1, 12, '2013-01-01', null, 10, null)
+	,('120002', '12345678', N'Phan', N'Thị Vân', N'Trinh', '0913184489', 'phantrinh72@gmail.com', '1970-01-01', N'48', N'490', N'20197', N'29A Đào Sư Tích, Hòa Minh, LC', 1, 1, 1, 12, '2013-01-01', null, 10, null)
+	,('120003', '12345678', N'Đặng', N'Công', N'Định', '0935740487', 'congdinh@yahoo.com', '1970-01-01', N'48', N'490', N'20197', N'Hoà Phong, Hoà Vang', 1, 1, 1, 12, '2013-01-01', null, 10, null)
+	,('120004', '12345678', N'Nguyễn', N'Thị', N'Huyến', '0932539564', 'nguyenthihuyenlqd@yahoo.com', '1970-01-01', N'48', N'490', N'20197', N'115 Nguyễn Sơn, P. Hòa Cường Nam', 1, 1, 1, 12, '2013-01-01', null, 10, null)
+	,('120005', '12345678', N'Lê', N'Diệu', N'Linh', '0983472782', 'dieulinhle@gmail.com', '1970-01-01', N'48', N'490', N'20197', N'An Thượng 17, Ngũ Hành Sơn', 1, 1, 1, 12, '2013-01-01', null, 10, null)
+	/*Tổ thể dục*/
+	,('130001', '12345678', N'Lê', N'Thị', N'Bé', '0905100323', 'lethibelqd@yahoo.com', '1970-01-01', N'48', N'490', N'20197', N'38 Ngô Gia Tự', 1, 1, 1, 13, '2013-01-01', null, 10, null)
+	,('130002', '12345678', N'Hồ', N'Anh', N'Dũng', '0905177536', 'hoanhdungthpt@yahoo.com.vn', '1970-01-01', N'48', N'490', N'20197', N'20A Ba Đình', 1, 1, 1, 13, '2013-01-01', null, 10, null)
+	,('130003', '12345678', N'Phan', N'Thị Thu', N'Hương', '0983394576', 'phanhuonglqd@yahoo.com.vn', '1970-01-01', N'48', N'490', N'20197', N'Chung cư Vũng Thùng', 1, 1, 1, 13, '2013-01-01', null, 10, null)
+	,('130004', '12345678', N'Huỳnh', N'Đức', N'Nghĩa', '0982531167', 'huynhducnghia_danang@yahoo.com.vn', '1970-01-01', N'48', N'490', N'20197', N'216 Thanh Thuỷ', 1, 1, 1, 13, '2013-01-01', null, 10, null)
+	,('130005', '12345678', N'Trần', N'Đoàn', N'Nhân', '0914158576', 'trannhan2210@yahoo.com.vn', '1970-01-01', N'48', N'490', N'20197', N'K86/14 Thi Sách', 1, 1, 1, 13, '2013-01-01', null, 10, null)
+	,('130006', '12345678', N'Nguyễn', N'Hữu', N'Phước', '0983281264', 'phuoclqd@gmail.com', '1970-01-01', N'48', N'490', N'20197', N'68 Nguyễn Hữu Thọ', 1, 1, 1, 13, '2013-01-01', null, 10, null)
+	SELECT * FROM Teacher
+	--SELECT * FROM Department
+ROLLBACK
+

@@ -1,0 +1,22 @@
+D:\C#\TEACHER FORM\bin\Debug\TEACHER FORM.exe.config
+D:\C#\TEACHER FORM\bin\Debug\TEACHER FORM.exe
+D:\C#\TEACHER FORM\bin\Debug\TEACHER FORM.pdb
+D:\C#\TEACHER FORM\obj\Debug\TEACHER FORM.csproj.AssemblyReference.cache
+D:\C#\TEACHER FORM\obj\Debug\TEACHER FORM.csproj.SuggestedBindingRedirects.cache
+D:\C#\TEACHER FORM\obj\Debug\TEACHER_FORM.MainForm.resources
+D:\C#\TEACHER FORM\obj\Debug\TEACHER_FORM.Properties.Resources.resources
+D:\C#\TEACHER FORM\obj\Debug\TEACHER FORM.csproj.GenerateResource.cache
+D:\C#\TEACHER FORM\obj\Debug\TEACHER FORM.csproj.CoreCompileInputs.cache
+D:\C#\TEACHER FORM\obj\Debug\TEACHER FORM.exe
+D:\C#\TEACHER FORM\obj\Debug\TEACHER FORM.pdb
+D:\OneDrive - The University of Technology\Learning\Semester_4\PBL3\TEACHER FORM\bin\Debug\TEACHER FORM.exe.config
+D:\OneDrive - The University of Technology\Learning\Semester_4\PBL3\TEACHER FORM\bin\Debug\TEACHER FORM.exe
+D:\OneDrive - The University of Technology\Learning\Semester_4\PBL3\TEACHER FORM\bin\Debug\TEACHER FORM.pdb
+D:\OneDrive - The University of Technology\Learning\Semester_4\PBL3\TEACHER FORM\obj\Debug\TEACHER FORM.csproj.AssemblyReference.cache
+D:\OneDrive - The University of Technology\Learning\Semester_4\PBL3\TEACHER FORM\obj\Debug\TEACHER FORM.csproj.SuggestedBindingRedirects.cache
+D:\OneDrive - The University of Technology\Learning\Semester_4\PBL3\TEACHER FORM\obj\Debug\TEACHER_FORM.TEACHER_Main.resources
+D:\OneDrive - The University of Technology\Learning\Semester_4\PBL3\TEACHER FORM\obj\Debug\TEACHER_FORM.Properties.Resources.resources
+D:\OneDrive - The University of Technology\Learning\Semester_4\PBL3\TEACHER FORM\obj\Debug\TEACHER FORM.csproj.GenerateResource.cache
+D:\OneDrive - The University of Technology\Learning\Semester_4\PBL3\TEACHER FORM\obj\Debug\TEACHER FORM.csproj.CoreCompileInputs.cache
+D:\OneDrive - The University of Technology\Learning\Semester_4\PBL3\TEACHER FORM\obj\Debug\TEACHER FORM.exe
+D:\OneDrive - The University of Technology\Learning\Semester_4\PBL3\TEACHER FORM\obj\Debug\TEACHER FORM.pdb

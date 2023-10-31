@@ -1,0 +1,16 @@
+D:\OneDrive - The University of Technology\Learning\Semester_4\PBL3\STUDENT FORM\obj\Debug\Student.csproj.AssemblyReference.cache
+D:\OneDrive - The University of Technology\Learning\Semester_4\PBL3\STUDENT FORM\obj\Debug\Student.csproj.SuggestedBindingRedirects.cache
+D:\OneDrive - The University of Technology\Learning\Semester_4\PBL3\STUDENT FORM\obj\Debug\STUDENT_FORM.Personal_Information.resources
+D:\OneDrive - The University of Technology\Learning\Semester_4\PBL3\STUDENT FORM\obj\Debug\STUDENT_FORM.Properties.Resources.resources
+D:\OneDrive - The University of Technology\Learning\Semester_4\PBL3\STUDENT FORM\obj\Debug\Student.csproj.GenerateResource.cache
+D:\OneDrive - The University of Technology\Learning\Semester_4\PBL3\STUDENT FORM\obj\Debug\Student.csproj.CoreCompileInputs.cache
+D:\OneDrive - The University of Technology\Learning\Semester_4\PBL3\STUDENT FORM\obj\Debug\STUDENT FORM.exe
+D:\OneDrive - The University of Technology\Learning\Semester_4\PBL3\STUDENT FORM\obj\Debug\STUDENT FORM.pdb
+D:\OneDrive - The University of Technology\Learning\Semester_4\PBL3\Student\obj\Debug\Student.csproj.AssemblyReference.cache
+D:\OneDrive - The University of Technology\Learning\Semester_4\PBL3\Student\obj\Debug\Student.csproj.SuggestedBindingRedirects.cache
+D:\OneDrive - The University of Technology\Learning\Semester_4\PBL3\Student\obj\Debug\Student.Personal_Information.resources
+D:\OneDrive - The University of Technology\Learning\Semester_4\PBL3\Student\obj\Debug\STUDENT_FORM.Properties.Resources.resources
+D:\OneDrive - The University of Technology\Learning\Semester_4\PBL3\Student\obj\Debug\Student.csproj.GenerateResource.cache
+D:\OneDrive - The University of Technology\Learning\Semester_4\PBL3\Student\obj\Debug\Student.csproj.CoreCompileInputs.cache
+D:\OneDrive - The University of Technology\Learning\Semester_4\PBL3\Student\obj\Debug\STUDENT FORM.exe
+D:\OneDrive - The University of Technology\Learning\Semester_4\PBL3\Student\obj\Debug\STUDENT FORM.pdb
